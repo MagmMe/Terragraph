@@ -1,0 +1,1598 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ea",
+				"ease-in"
+			],
+			[
+				"anima",
+				"animation-timing-function"
+			],
+			[
+				"animation-d",
+				"animation-duration"
+			],
+			[
+				"ani",
+				"animation"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"anim",
+				"anim-\tanimation: ${1:name} ${2:duration} ${3:timing-function} ${4:delay} ${5:iteration-count} ${6:direction} ${7:fill-mode};"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"lef",
+				"left"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"he",
+				"height\tAttr"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"transition",
+				"transition-delay"
+			],
+			[
+				"transiti",
+				"transition-timing-function"
+			],
+			[
+				"transit",
+				"transition\tCSS - transition: ;"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"ech",
+				"echo\techo \"…\""
+			],
+			[
+				"insert",
+				"insertBefore(newElement, referenceElement)\tNode"
+			],
+			[
+				"getele",
+				"getElementsByTagName(name)\tElement"
+			],
+			[
+				"do",
+				"document\tDocument"
+			],
+			[
+				"crea",
+				"createTextNode(data)\tDocument"
+			],
+			[
+				"inse",
+				"insertBefore(newElement, referenceElement)\tNode"
+			],
+			[
+				"app",
+				"appendChild(aChild)\tNode"
+			],
+			[
+				"cre",
+				"createTextNode(data)\tDocument"
+			],
+			[
+				"q",
+				"querySelector(selectors)\tElement"
+			],
+			[
+				"Ima",
+				"new Image()"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"Im",
+				"new Image()"
+			],
+			[
+				"textN",
+				"createTextNode(data)\tDocument"
+			],
+			[
+				"getelement",
+				"getElementsByClassName(names)\tElement"
+			],
+			[
+				"geteleme",
+				"getElementsByTagName(name)\tElement"
+			],
+			[
+				"cono",
+				"console.log()"
+			],
+			[
+				"qu",
+				"querySelectorAll(selectors)\tElement"
+			],
+			[
+				"getelem",
+				"getElementsByClassName(names)\tElement"
+			],
+			[
+				"clear",
+				"clearInterval(intervalID)\tWindow"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"setTi",
+				"setTimeout(func, delay)\tWindow"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"t",
+				"throw"
+			],
+			[
+				"new",
+				"new Error(message)\tError"
+			],
+			[
+				"get",
+				"getDate()\tDate"
+			],
+			[
+				"Mat",
+				"Math.random()\tMath"
+			],
+			[
+				"Ma",
+				"Math.PI\tMath"
+			],
+			[
+				"l",
+				"length\tString"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bor",
+				"border-right"
+			],
+			[
+				"delete",
+				"delete(Object)\tObject"
+			],
+			[
+				"fun",
+				"function without name"
+			],
+			[
+				"wdi",
+				"width"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"spl",
+				"splice(index, howMany)\tArray"
+			],
+			[
+				"sp",
+				"splice(index, howMany)\tArray"
+			],
+			[
+				"ta",
+				"target\tAttr"
+			],
+			[
+				"un",
+				"unshift(element1)\tArray"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"posi",
+				"position"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"func",
+				"new Function()\tFunction"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"czlowiek",
+				"czlowiek2"
+			],
+			[
+				"dow",
+				"do while()"
+			],
+			[
+				"w",
+				"while()"
+			],
+			[
+				"cons",
+				"console.log()"
+			],
+			[
+				"alert",
+				"alert(message)\tWindow"
+			],
+			[
+				"aler",
+				"alert(message)\tWindow"
+			],
+			[
+				"ale",
+				"alert(message)\tWindow"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"tran",
+				"transition\tCSS - transition: ;"
+			],
+			[
+				"conta",
+				"container_width"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bs3-t",
+				"bs3-table\tbs3-table"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"wi",
+				"width\tStyle CSS"
+			],
+			[
+				"transition-",
+				"transition-duration"
+			],
+			[
+				"tra",
+				"transition-property"
+			],
+			[
+				"bl",
+				"blur()"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"flex-sh",
+				"-webkit-flex-shrink"
+			],
+			[
+				"ba",
+				"baseline"
+			],
+			[
+				"flex",
+				"flex-start"
+			],
+			[
+				"align",
+				"align-content"
+			],
+			[
+				"con",
+				"justify-content"
+			],
+			[
+				"colu",
+				"column-reverse"
+			],
+			[
+				"a",
+				"all"
+			],
+			[
+				"ju",
+				"justify-content"
+			],
+			[
+				"ite",
+				"justify-items"
+			],
+			[
+				"ov",
+				"ov-h\toverflow: hidden;"
+			],
+			[
+				"fl",
+				"fl-l\tfloat: left;"
+			],
+			[
+				"hi",
+				"hidden"
+			],
+			[
+				"flex-gr",
+				"-webkit-flex-grow"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"justi",
+				"justify-content"
+			],
+			[
+				"jus",
+				"-webkit-justify-self"
+			],
+			[
+				"flex-",
+				"flex-wrap"
+			],
+			[
+				"spac",
+				"space-between"
+			],
+			[
+				"fex",
+				"flex-direction"
+			],
+			[
+				"bol",
+				"bold"
+			],
+			[
+				"tetx",
+				"text-align"
+			],
+			[
+				"background-c",
+				"background-clip"
+			],
+			[
+				"Fotn",
+				"font-family"
+			],
+			[
+				"fi",
+				"fixed"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"scri",
+				"script\t<script>"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"fotn",
+				"font-weight"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 6175,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "less/style.less",
+			"settings":
+			{
+				"buffer_size": 6295,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/script.js",
+			"settings":
+			{
+				"buffer_size": 643,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "synt ht",
+		"selected_items":
+		[
+			[
+				"synt ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"synt",
+				"Set Syntax: CSS3"
+			],
+			[
+				"synt ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ma",
+				"Material Theme: Configuration"
+			],
+			[
+				"bs3 h",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"synt html",
+				"Set Syntax: HTML"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"sy css",
+				"Set Syntax: CSS3"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"sy ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn  cs",
+				"Set Syntax: CSS3"
+			],
+			[
+				"syn ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"fe",
+				"Fetch: Package"
+			],
+			[
+				"SYN JA",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn hm",
+				"Set Syntax: HTML"
+			],
+			[
+				"fect",
+				"Fetch: Manage"
+			],
+			[
+				"synt htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"styn h",
+				"Set Syntax: HTML"
+			],
+			[
+				"synt h",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"sty",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn cs",
+				"Set Syntax: CSS"
+			],
+			[
+				"syn css",
+				"Set Syntax: CSS3"
+			],
+			[
+				"syn h",
+				"Set Syntax: HTML"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"syn ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"syn sa",
+				"Set Syntax: Sass"
+			],
+			[
+				"au",
+				"Autoprefix CSS"
+			],
+			[
+				"fet",
+				"Fetch: Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"syn less",
+				"Set Syntax: LESS"
+			],
+			[
+				"syn",
+				"Set Syntax: Less"
+			],
+			[
+				"a",
+				"Autoprefix CSS"
+			],
+			[
+				"aut",
+				"Autoprefix CSS"
+			],
+			[
+				"synt css",
+				"Set Syntax: CSS3"
+			],
+			[
+				"fetch",
+				"Fetch: Manage"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"File",
+				"File: Copy as Tag style"
+			],
+			[
+				"file",
+				"File: Copy as Tag script"
+			],
+			[
+				"syn html",
+				"Set Syntax: HTML"
+			],
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"synt hm",
+				"Set Syntax: HTML"
+			],
+			[
+				"net",
+				"File: New File Relative to Current View"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pac in",
+				"Package Control: Install Package"
+			],
+			[
+				"synt java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"snip media",
+				"Snippet: bs3-media-object"
+			],
+			[
+				"sni bs3",
+				"Snippet: bs3-breadcrumbs"
+			],
+			[
+				"sni",
+				"Snippet: bs3-navbar-inverse"
+			],
+			[
+				"syn ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				" htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"sy",
+				"Set Syntax: YAML"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"synt jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"styn ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"SYN HTM",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn jac",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn c",
+				"Set Syntax: CSS"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ssyn css",
+				"Set Syntax: CSS3"
+			],
+			[
+				"syn js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"rem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"fetch ",
+				"Fetch: Manage"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"Disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack i",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: bs3-h",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"Snippet: div",
+				"Snippet: <div>"
+			],
+			[
+				"pacga",
+				"Package Control: Install Package"
+			],
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 503.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/MarcinMagiera/Desktop/Terragraph/Terragraph_Site",
+		"/Users/MarcinMagiera/Desktop/Terragraph/Terragraph_Site/css",
+		"/Users/MarcinMagiera/Desktop/Terragraph/Terragraph_Site/js",
+		"/Users/MarcinMagiera/Desktop/Terragraph/Terragraph_Site/less"
+	],
+	"file_history":
+	[
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/3338419B-23BF-48E7-8C09-4AB4D6E5757E/style.css",
+		"/Users/MarcinMagiera/Desktop/Terragraph/Terragraph_Site/js/npm.js",
+		"/Users/MarcinMagiera/Desktop/global.js",
+		"/Users/MarcinMagiera/Desktop/Nikta/Nikta_One/css/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/ED30A6F9-07DD-4B4D-9345-0B23BEC9C6FE/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/3E83C228-5201-4A2A-8352-BA4DB219B96C/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/B3160F66-E45B-4D20-A65B-61700A1CAC78/functions.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/2AC7F781-CA90-4B57-BCE4-1E27855C6945/style.css",
+		"/Users/MarcinMagiera/Desktop/Rafolo/index.html",
+		"/Users/MarcinMagiera/Desktop/Rafolo/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/44DE7512-7068-440D-873F-2E0458F28E52/index.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/44727E20-3BDA-43B7-BDBD-0DFE4BCDE953/theme.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/8DAD35A8-66EF-422C-912C-9E4101D89F42/theme.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/6C65A2A1-AF39-4CC4-9C1A-7A40CDD0D450/index.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/06444034-1813-4FD6-9717-DAA38DC465F8/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/576FBF16-1659-428F-8048-E30332EB2F6B/custom-admin.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/2E26AFA7-DCFB-4F0D-85A0-52F9551B73DB/options.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/984C8EBB-5A0D-4EFF-A40D-4CA876740ED7/style.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/A8B64B83-F125-43C6-804F-1A6973F47563/flexslider.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/D87F3998-4C39-49B8-892A-0B8F93BB3433/functions.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/8B00F41E-0DE8-4957-8BE5-45D2D7E28CE0/index.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/820C1A15-1F7E-439B-8F84-24453192510C/theme.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/98CB84DF-6D5E-4D6C-AFFA-597BF4AF6345/index.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/9E66E86A-0203-4168-9FCB-4A667259FB52/index.html",
+		"/Users/MarcinMagiera/Downloads/PreLoadMe-master/index.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/C486073D-B873-4101-BC14-56CD5DB7944B/styles_ajax.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/45DB1770-3E86-4093-A891-00B6A0848589/styles.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/313E403F-1004-46E9-A247-05181154A3C8/styles.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/607D6B45-A5D4-486A-A0B8-4A47E957D903/styles_ajax.css",
+		"/Users/MarcinMagiera/Downloads/PreLoadMe-master/css/styles_ajax.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/A95A9902-BFD0-4F75-A3C6-585373F5AD41/index.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/44C88C8A-02CF-4D21-AF4E-5A91BF4BE7B3/rozpakuj.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/556CDD45-4213-4A63-AE29-5A3EC45EDF19/rozpakuj.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/3ADD02CB-725E-4EA6-92F5-0C3B98D6490B/rozpakuj.php",
+		"/Users/MarcinMagiera/Documents/WordPress- konfiguracja/rozpakuj.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/435B9A94-D7B9-4864-BE27-2A82D450C74A/cd0fcd0ab507.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/D5DA8809-B7EF-4FFA-9CA2-682398ADB92E/style.css",
+		"/Users/MarcinMagiera/Desktop/Nikta/Nikta_One/less/style.less",
+		"/Users/MarcinMagiera/Desktop/Nikta/Nikta_One/css/responsive.css",
+		"/Users/MarcinMagiera/Desktop/animate.js",
+		"/Users/MarcinMagiera/open",
+		"/Users/MarcinMagiera/Desktop/Nikta/Nikta_One/js/script.js",
+		"/Users/MarcinMagiera/Documents/www/CSS3/10_Transitions/style.css",
+		"/Users/MarcinMagiera/Documents/www/CSS3/10_Transitions/index.html",
+		"/Users/MarcinMagiera/Desktop/Bootstrap_Kurs/08/08_02/start/index.html",
+		"/Users/MarcinMagiera/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/MarcinMagiera/Desktop/Bootstrap_Kurs/06/06_01/start/06_01.html",
+		"/Users/MarcinMagiera/Documents/www/My Websides/6. Bootstrap/App/index.html",
+		"/Users/MarcinMagiera/Desktop/Bootstrap_Kurs/04/04_08/start/04_08.html",
+		"/Users/MarcinMagiera/Desktop/Bootstrap_Kurs/09/09_04/index.html",
+		"/Users/MarcinMagiera/Desktop/Bootstrap_Kurs/09/09_04/css/wlasny.css",
+		"/Users/MarcinMagiera/Desktop/Bootstrap_Kurs/04/04_07/start/04_07.html",
+		"/Users/MarcinMagiera/Desktop/Bootstrap_Kurs/04/04_06/start/04_06.html",
+		"/Users/MarcinMagiera/Desktop/Bootstrap_Kurs/04/04_02/start/04_02.html",
+		"/Users/MarcinMagiera/Desktop/Bootstrap_Kurs/03/03_06/start/03_06.html",
+		"/Users/MarcinMagiera/Desktop/Nikta/Bootstrap/index.html",
+		"/Users/MarcinMagiera/Desktop/Nikta/Bootstrap/css/style.css",
+		"/Users/MarcinMagiera/Desktop/Nikta/index.html",
+		"/Users/MarcinMagiera/Documents/www/My Websides/6. Bootstrap/App/css/bootstrap-theme.css",
+		"/Users/MarcinMagiera/Documents/www/My Websides/6. Bootstrap/App/css/bootstrap.css",
+		"/Users/MarcinMagiera/Desktop/Project/js/script.js",
+		"/Users/MarcinMagiera/Desktop/Project/css/style.css",
+		"/Users/MarcinMagiera/Desktop/Project/index.html",
+		"/Users/MarcinMagiera/Desktop/Project/css/bootstrap-theme.css",
+		"/Users/MarcinMagiera/Desktop/Project/style.css",
+		"/Users/MarcinMagiera/Desktop/Project/script.js",
+		"/Users/MarcinMagiera/Downloads/gorecki/index.html",
+		"/Users/MarcinMagiera/Downloads/gorecki/podglad.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/2ED85CEB-9724-421A-87DF-36D5BA138C12/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/BC219F99-BE5D-496A-A765-957F94179D80/index.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/151610EF-2AFF-44D0-B5A8-B43564BCEB40/index.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/8A994944-0906-4D86-9DE4-7328ECD65236/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/84ABB664-E921-4829-8FD4-12F8075A6BA3/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/852581AC-D499-4D11-8013-36C3CFC4607A/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/212C0285-140F-4245-9955-05B5F8A04625/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/1D86909C-B816-4B03-AE34-A5DD24034595/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/3DB5715B-A062-4951-905B-54B8D303357B/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/07EF6D1C-8691-4EF8-8367-06BB9E60D9EF/wp-config.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/C43AD3C5-B7A2-4C92-ADE3-73501CD1D1F1/wp-config.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/D782504A-FA80-44DF-9E0B-E8930230682A/wp-config.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/3DB6129F-EB79-401C-AF07-B41AD4089925/wp-config.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/639CB00C-7F93-4ABC-AAAB-F1866B5BF782/index.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/1094E7F6-4621-47FF-A4DE-5CCFD0CD5B6F/wp-config.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/25F6992E-496A-41DD-A7C8-791D2CB04ABE/wp-config.php",
+		"/Users/MarcinMagiera/Desktop/wp-config.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/6846BF5B-928C-4DA0-B64E-1898D2FA42E6/main.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/1C18B72F-4DCF-4A2F-94C5-5759BBD036B3/wp-config-sample.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/A125F94D-910C-49E5-BF36-E53E5D982607/wp-config-sample.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/528A45DF-BBA7-44B6-9770-A0D88E8F8C57/readme.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/227190DC-C526-4B32-B030-BAE89FF1B4A3/wp-config.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/B8E851E0-B10A-43A4-A214-B4A8FC5CF23E/index.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/CB7FCB30-A23C-403B-89E6-8A90302D1E66/wp-config.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/CCA6FC3F-B84B-43ED-A784-2CE71BE34D98/wp-config.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/F10F1A1E-C70C-44E6-80C4-68FA8BA40240/wp-config.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/E3D5AEFF-7408-4157-BF8B-87F10037896F/functions.php",
+		"/Users/MarcinMagiera/Desktop/test/style.css",
+		"/Users/MarcinMagiera/Desktop/test/test.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/87753FCE-6046-46A8-A8F7-8DC597531CBD/wp-config.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/8720E3A2-7F0F-4B7E-81B6-B8B3550BE11F/functions.php",
+		"/Users/MarcinMagiera/Desktop/adres_gorecki.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/7A51BBA9-A4AD-4188-9AE1-4CC380090070/functions.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/133CB29F-7BC4-416D-A647-18113A8C9753/functions.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/A35DEB1E-906C-4322-948C-DCB4223B7845/wp-config.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/9FC289C4-0FF7-4213-8194-B4D36354E208/functions.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/85061FF6-44D7-4B9C-96A4-3ADB0D6914A9/functions.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/A8374308-2E0A-40C5-B452-F37428ACF61B/xmlrpc.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/3EF15E80-ECB2-48AC-9739-240A939F7573/wp-settings.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/92D07A6A-6DE1-4120-AC2B-B6B03CA74C09/wp-config.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/B67C7156-8FCA-4890-82AB-93217B2B7ED3/wp-blog-header.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/5F6A180D-E3B1-43EB-8DEA-1DD0EED0B204/wp-settings.php",
+		"/Users/MarcinMagiera/Desktop/test.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/B003C163-277F-4AA0-96CF-2C3B42AC452A/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/CB4C6748-5D8D-4387-BABA-24B383524D77/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/91139F3F-98D2-4365-B398-FC4A6918DF3D/style.css",
+		"/Users/MarcinMagiera/Desktop/Górecki/Translate/top-Menu_translate.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/45D9777D-D889-4D3C-BFBE-A10EE642DA16/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/B4E2277E-1C53-42CF-8EAF-9ECDB7FA4224/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/A5CD828E-A009-4CA2-B9C8-E4D8FB1AE022/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/0576D18B-6E77-4766-9547-A21F76D0153A/style.css",
+		"/Users/MarcinMagiera/Downloads/themeforest-12957244-avoir-creative-portfolio-bootstrap-template-file-and-license20160824-28929-19q7lpv/themeforest-12957244-avoir-creative-portfolio-bootstrap-template/Template/home-parallax.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/35CCAF8B-DE40-444E-9093-D252047EDD69/style.css",
+		"/Users/MarcinMagiera/Desktop/xml35.php",
+		"/Users/MarcinMagiera/Desktop/index.php",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#2/custom.css",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#1/style.css",
+		"/Users/MarcinMagiera/Downloads/themeforest-10049784-notio-deluxe-portfolio-theme/notio-wp-child/style.css",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#19/index.html",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#18/client.php"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 154.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".black-overlay",
+			"black-overlay",
+			"important",
+			"!important;",
+			"!important",
+			"header",
+			"font-family",
+			"large-3",
+			"h2",
+			"share",
+			"all",
+			"media",
+			"share",
+			"'share'",
+			"share",
+			".share",
+			"share",
+			"large-12",
+			"Recenzje",
+			"background",
+			"'league tables'",
+			"%;",
+			"div",
+			"\n.",
+			"accessibilityCss",
+			"#accessibilityCss",
+			"section",
+			"seciotn",
+			"$result",
+			"$",
+			"height",
+			"backgroudn",
+			"background",
+			"\n\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis consequatur ea velit nihil, qui dignissimos tenetur, aperiam tempore veniam, harum voluptatum sed. Aliquid illum consectetur, minus ad natus, harum consequatur.\n\t\n\n\t<div>\n\t\t<ul>\n\t\t\t<li>zero</li>\n\t\t\t<li>One</li>\n\t\t\t<li>Two</li>\n\t\t\t<li>Three</li>\n\t\t\t<li>Five</li>\n\t\t\t<li>eight</li>\n\t\t\t<li>eight</li>\n\t\t\t<li>eight</li>\n\t\t\t<li>eight</li>\n\t\t\t<li>eight</li>\n\t\t\t<li>eight</li>\n\t\t\t<li>eight</li>\n\t\t\t<li>eight</li>\n\t\t\t<li>eight</li>\n\t\t\t<li>eight</li>\n\t\t</ul>\n\t</div>\n\n",
+			"div",
+			"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum facilis at qui similique rem modi fugiat? Placeat suscipit odio ratione sit fugit similique ipsam. Autem similique corrupti consequatur! Excepturi, voluptates.\n",
+			"data",
+			"likked",
+			"link",
+			"menu",
+			"\t\t\t\t\t\n",
+			"bar",
+			"icon-bar\"></span>\n\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t<span class=\"icon-b",
+			"bar",
+			"icon-bars",
+			"icon-bar",
+			"()\">",
+			"home section"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"icon-bar",
+			"icon-bars"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6175,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2062,
+								2062
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2059,
+										2061
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										2014,
+										2016
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 355.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "less/style.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6295,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3371,
+								3371
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										3372,
+										3373
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										3208,
+										3209
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2222.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 643,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								643,
+								643
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 88.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 98.0
+	},
+	"pinned_build_system": "",
+	"project": "terragraph.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"index.html"
+			],
+			[
+				"sty",
+				"style.css"
+			],
+			[
+				"foo",
+				"footer.php"
+			],
+			[
+				"cu",
+				"js/custom.js"
+			],
+			[
+				"si",
+				"single.php"
+			],
+			[
+				"ind",
+				"index.php"
+			],
+			[
+				"boo",
+				"css/bootstrap-theme.css"
+			],
+			[
+				"in",
+				"~/Documents/www/My Websides/6. Bootstrap/App/index.html"
+			],
+			[
+				"bo",
+				"css/bootstrap-theme.css"
+			],
+			[
+				"boot",
+				"js/bootstrap.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
