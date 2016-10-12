@@ -13,6 +13,9 @@ html {
 .nav .open > a:focus {
   background-color: transparent;
 }
+section {
+  height: 100%;
+}
 /*-------------------------------*/
 /*           Wrappers            */
 /*-------------------------------*/
@@ -298,7 +301,6 @@ html {
 }
 #logo img {
   width: 300px;
-  position: absolute;
-  right: 5%;
+  position: fixed;
   z-index: 2000;
 }
