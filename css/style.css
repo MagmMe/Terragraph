@@ -1,4 +1,6 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto';
 body {
+  font-family: 'Roboto', sans-serif;
   position: relative;
   overflow-x: hidden;
 }
@@ -46,11 +48,25 @@ html {
 }
 #page-content-wrapper {
   width: 100%;
-  padding-top: 70px;
+  padding-top: 0px;
 }
 #wrapper.toggled #page-content-wrapper {
   position: absolute;
   margin-right: -220px;
+}
+#wrapper #page-content-wrapper #hero #logo img {
+  right: 5%;
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 1s ease;
+  -o-transition: all 1s ease;
+  transition: all 1s ease;
+}
+#wrapper.toggled #page-content-wrapper #hero #logo img {
+  right: -30%;
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 1s ease;
+  -o-transition: all 1s ease;
+  transition: all 1s ease;
 }
 /*-------------------------------*/
 /*     Sidebar nav styles        */
@@ -140,6 +156,9 @@ html {
   font-size: 20px;
   line-height: 44px;
 }
+.sidebar-nav > .sidebar-brand img {
+  width: 150px;
+}
 .sidebar-nav .dropdown-menu {
   position: relative;
   width: 100%;
@@ -201,7 +220,7 @@ html {
 .hamburger.is-closed .hamb-top,
 .hamburger.is-closed .hamb-middle,
 .hamburger.is-closed .hamb-bottom {
-  background-color: #1a1a1a;
+  background-color: #fff;
 }
 .hamburger.is-closed .hamb-top {
   top: 5px;
@@ -274,6 +293,12 @@ html {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: rgba(250, 250, 250, 0.8);
+  background-color: rgba(250, 250, 250, 0.9);
   z-index: 1;
+}
+#logo img {
+  width: 300px;
+  position: absolute;
+  right: 5%;
+  z-index: 2000;
 }
