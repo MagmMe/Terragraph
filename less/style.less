@@ -471,6 +471,11 @@ padding-bottom: 0px;
       small{
         color: #5190D7;
       }
+
+      address{
+        padding-top: 5%;
+      }
+
     }
 }
 
@@ -482,17 +487,57 @@ padding-bottom: 0px;
   padding-bottom: 2rem;
   text-align: left;
   background-color: #000;
-  color: #fff;
+  color: #5C6871;
 
       img {
         float: right;
         margin-left: 1rem;
-        width: 7%;
-        }
+        width: 5%;
 
-        &:hover{
+           &:hover{
           -webkit-animation: pulse .8s ease;
           -o-animation: pulse .8s ease;
           animation: pulse .8s ease;
+          }
         }
+}
+
+
+@media (max-width: 460px) {
+
+
+  #wrapper.toggled #page-content-wrapper #hero #logo img {
+           right: -40%;
+          -webkit-transition: all 0.5s ease;
+          -moz-transition: all 1s ease;
+            -o-transition: all 1s ease;
+              transition: all 1s ease;
+
+}
+
+  #hero {
+
+
+
+    .carousel-caption h1 {
+    font-size: 2em;
+    }
+  }
+
+  #logo img {
+    -webkit-transform: scale(.7);
+       -moz-transform: scale(.7);
+        -ms-transform: scale(.7);
+         -o-transform: scale(.7);
+            transform: scale(.7);
+  }
+
+}
+
+@media (max-width: 680px){
+
+     #hero .carousel-caption h1 {
+        font-size: 3em;
+  }
+
 }

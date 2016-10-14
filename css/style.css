@@ -394,21 +394,48 @@ section {
 #kontakt .page-header small {
   color: #5190D7;
 }
+#kontakt .page-header address {
+  padding-top: 5%;
+}
 #stopka {
   padding-top: 4rem;
   font-weight: 100;
   padding-bottom: 2rem;
   text-align: left;
   background-color: #000;
-  color: #fff;
+  color: #5C6871;
 }
 #stopka img {
   float: right;
   margin-left: 1rem;
-  width: 7%;
+  width: 5%;
 }
-#stopka:hover {
+#stopka img:hover {
   -webkit-animation: pulse .8s ease;
   -o-animation: pulse .8s ease;
   animation: pulse .8s ease;
+}
+@media (max-width: 460px) {
+  #wrapper.toggled #page-content-wrapper #hero #logo img {
+    right: -40%;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+  }
+  #hero .carousel-caption h1 {
+    font-size: 2em;
+  }
+  #logo img {
+    -webkit-transform: scale(0.7);
+    -moz-transform: scale(0.7);
+    -ms-transform: scale(0.7);
+    -o-transform: scale(0.7);
+    transform: scale(0.7);
+  }
+}
+@media (max-width: 680px) {
+  #hero .carousel-caption h1 {
+    font-size: 3em;
+  }
 }
