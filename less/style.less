@@ -1,19 +1,27 @@
-@import 'https://fonts.googleapis.com/css?family=Roboto';
+
+
+@blueMagme: #5190D7;
+@marineMagme: #4AE3E4;
+@grayMagme: #EDEDED;
+
+@import url('https://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed:300,400');
 
 
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
     position: relative;
     overflow-x: hidden;
 }
 body,
-html { height: 100%;}
+html { height: 100%;
+}
 .nav .open > a,
 .nav .open > a:hover,
 .nav .open > a:focus {background-color: transparent;}
 
 section {
   height: 100%;
+  width: 100%;
 }
 
 /*-------------------------------*/
@@ -340,4 +348,122 @@ section {
   width: 300px;
   position: fixed;
   z-index: 2000;
+}
+
+
+#hero .carousel .item {
+  width: 100%;
+
+  img{
+    width: 100%;
+    height: auto;
+  }
+}
+
+ #hero{
+
+      .carousel-caption{
+
+        top: 30%;
+        bottom: auto;
+
+        h1 {
+          font-family: 'Roboto';
+          font-size: 8em;
+          font-weight: 300;
+          text-transform: uppercase;
+          line-height: .8;
+
+         .blueMagme{
+          color: @blueMagme;
+         }
+
+         .marineMagme{
+          color: @marineMagme;
+         }
+
+        }
+
+      }
+
+}
+
+
+// Section O-Nas
+
+#oNas {
+padding-top: 0px;
+background-image: url(../images/bg1.jpg);
+background-size: cover;
+background-attachment: fixed;
+height: 100%;
+padding-bottom: 0px;
+
+        .leftMagme{
+          background-color: #EDEDED;
+          color: #213B57;
+
+          .jumbotron.magme{
+            margin-bottom: 0;
+            padding-bottom: 2%;
+          }
+        }
+
+        .rightMagme{
+              width: 0;
+              height: 0;
+               padding-bottom: 40%;
+                padding-left: 30%;
+               overflow: hidden;
+        }
+
+        .rightMagme:after {
+                content: "";
+                display: block;
+                width: 0;
+                height: 0;
+                margin-left: -400px;
+                border-bottom: 400px solid transparent;
+                border-left: 400px solid #EDEDED;
+        }
+}
+
+
+#oferta{
+  background-image: url(../images/bg2.jpg);
+  background-size: cover;
+  padding-top: 5%;
+  padding-bottom: 5%;
+
+      .jumbotron{
+        background-color: transparent;
+        color: @grayMagme;
+      }
+
+      .columnOferta{
+        color: @grayMagme;
+
+        span{
+          color: @grayMagme;
+          font-size: 8em;
+        }
+
+      }
+
+}
+
+#kontakt{
+  padding-top: 5%;
+  background-image: url(../images/bg3.jpg);
+  background-attachment: fixed;
+  height: 500px;
+
+    .page-header{
+      border-bottom: none;
+      color: @grayMagme;
+
+      small{
+        color: #5190D7;
+      }
+    }
 }

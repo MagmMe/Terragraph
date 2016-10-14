@@ -1,6 +1,6 @@
-@import 'https://fonts.googleapis.com/css?family=Roboto';
+@import url('https://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed:300,400');
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
   position: relative;
   overflow-x: hidden;
 }
@@ -15,6 +15,7 @@ html {
 }
 section {
   height: 100%;
+  width: 100%;
 }
 /*-------------------------------*/
 /*           Wrappers            */
@@ -303,4 +304,90 @@ section {
   width: 300px;
   position: fixed;
   z-index: 2000;
+}
+#hero .carousel .item {
+  width: 100%;
+}
+#hero .carousel .item img {
+  width: 100%;
+  height: auto;
+}
+#hero .carousel-caption {
+  top: 30%;
+  bottom: auto;
+}
+#hero .carousel-caption h1 {
+  font-family: 'Roboto';
+  font-size: 8em;
+  font-weight: 300;
+  text-transform: uppercase;
+  line-height: .8;
+}
+#hero .carousel-caption h1 .blueMagme {
+  color: #5190D7;
+}
+#hero .carousel-caption h1 .marineMagme {
+  color: #4AE3E4;
+}
+#oNas {
+  padding-top: 0px;
+  background-image: url(../images/bg1.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  height: 100%;
+  padding-bottom: 0px;
+}
+#oNas .leftMagme {
+  background-color: #EDEDED;
+  color: #213B57;
+}
+#oNas .leftMagme .jumbotron.magme {
+  margin-bottom: 0;
+  padding-bottom: 2%;
+}
+#oNas .rightMagme {
+  width: 0;
+  height: 0;
+  padding-bottom: 40%;
+  padding-left: 30%;
+  overflow: hidden;
+}
+#oNas .rightMagme:after {
+  content: "";
+  display: block;
+  width: 0;
+  height: 0;
+  margin-left: -400px;
+  border-bottom: 400px solid transparent;
+  border-left: 400px solid #EDEDED;
+}
+#oferta {
+  background-image: url(../images/bg2.jpg);
+  background-size: cover;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+#oferta .jumbotron {
+  background-color: transparent;
+  color: #EDEDED;
+}
+#oferta .columnOferta {
+  color: #EDEDED;
+}
+#oferta .columnOferta span {
+  color: #EDEDED;
+  font-size: 8em;
+}
+#kontakt {
+  padding-top: 5%;
+  background-image: url(../images/bg3.jpg);
+  background-attachment: fixed;
+  height: 500px;
+}
+#kontakt .page-header {
+  border-bottom: none;
+  color: #EDEDED;
+}
+#kontakt .page-header small {
+  color: #5190D7;
 }
