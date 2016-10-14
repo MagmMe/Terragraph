@@ -1,8 +1,10 @@
 
 
+
 @blueMagme: #5190D7;
 @marineMagme: #4AE3E4;
 @grayMagme: #EDEDED;
+@red: #ff0000;
 
 @import url('https://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed:300,400');
 
@@ -406,6 +408,10 @@ padding-bottom: 0px;
           .jumbotron.magme{
             margin-bottom: 0;
             padding-bottom: 2%;
+
+            span{
+              color: @red;
+            }
           }
         }
 
@@ -413,7 +419,7 @@ padding-bottom: 0px;
               width: 0;
               height: 0;
                padding-bottom: 40%;
-                padding-left: 30%;
+                padding-left: 23.4%;
                overflow: hidden;
         }
 
@@ -423,7 +429,7 @@ padding-bottom: 0px;
                 width: 0;
                 height: 0;
                 margin-left: -400px;
-                border-bottom: 400px solid transparent;
+                border-bottom: 500px solid transparent;
                 border-left: 400px solid #EDEDED;
         }
 }
@@ -466,4 +472,27 @@ padding-bottom: 0px;
         color: #5190D7;
       }
     }
+}
+
+
+#stopka{
+
+  padding-top: 4rem;
+  font-weight: 100;
+  padding-bottom: 2rem;
+  text-align: left;
+  background-color: #000;
+  color: #fff;
+
+      img {
+        float: right;
+        margin-left: 1rem;
+        width: 7%;
+        }
+
+        &:hover{
+          -webkit-animation: pulse .8s ease;
+          -o-animation: pulse .8s ease;
+          animation: pulse .8s ease;
+        }
 }
