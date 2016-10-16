@@ -249,7 +249,7 @@ section {
 .hamburger.is-open .hamb-top,
 .hamburger.is-open .hamb-middle,
 .hamburger.is-open .hamb-bottom {
-  background-color: #1a1a1a;
+  background-color: #1c1c1c;
 }
 .hamburger.is-open .hamb-top,
 .hamburger.is-open .hamb-bottom {
@@ -392,20 +392,7 @@ section {
   color: #ff0000;
 }
 #oNas .rightMagme {
-  width: 0;
-  height: 0;
-  padding-bottom: 40%;
-  padding-left: 25.4%;
-  overflow: hidden;
-}
-#oNas .rightMagme:after {
-  content: "";
-  display: block;
-  width: 0;
-  height: 0;
-  margin-left: -400px;
-  border-bottom: 500px solid transparent;
-  border-left: 400px solid #EDEDED;
+  padding-bottom: 20%;
 }
 #oferta {
   background-image: url(../images/bg2.jpg);
