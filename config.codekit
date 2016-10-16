@@ -100,6 +100,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/bg_new.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 140956,
+		"inputAbbreviatedPath": "\/images\/bg_new.jpg",
+		"outputAbbreviatedPath": "\/images\/bg_new.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/icons\/facebook.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -232,13 +243,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/TerragraphLogo.png": {
+	"\/images\/terragraphLogo.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 23373,
-		"inputAbbreviatedPath": "\/images\/TerragraphLogo.png",
-		"outputAbbreviatedPath": "\/images\/TerragraphLogo.png",
+		"inputAbbreviatedPath": "\/images\/terragraphLogo.png",
+		"outputAbbreviatedPath": "\/images\/terragraphLogo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
